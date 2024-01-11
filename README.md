@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jspratik" target="blank"><img src="https://img.shields.io/twitter/follow/jspratik?logo=twitter&style=for-the-badge" alt="jspratik" /></a> </p>
 
-- 🔭 I’m currently working on [Secontec Scope](https://apps.apple.com/in/app/secontec/id1632230681)
+- 🔭 I’m currently working on [Medstore Ecommerce API](https://github.com/ThePratikSah/node-mongo-medadmin-api.git)
 
 - 🌱 I’m currently learning **Go**
 
