@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A passionate full-stack developer from India, working at [Razorpay](https://github.com/razorpay)</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepratiksah&label=Profile%20views&color=0e75b6&style=flat" alt="thepratiksah" /> </p>
 
@@ -10,6 +10,8 @@
 - 🔭 At present, I’m working on FFMPEG, Video Processing, HLS, etc.
 
 - 🌱 I’m currently learning **Go**
+
+- 👨‍💻 I'm currently working at [Razorpay](https://github.com/razorpay)
 
 - 📝 I regularly write articles on [https://learnsyntax.com](https://learnsyntax.com)
 
