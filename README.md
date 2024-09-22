@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jspratik" target="blank"><img src="https://img.shields.io/twitter/follow/jspratik?logo=twitter&style=for-the-badge" alt="jspratik" /></a> </p>
 
-- 🔭 At present, I’m working on FFMPEG, Video Processing, HLS, etc.
+- 🔭 At present, I’m working on Docker.
 
 - 🌱 I’m currently learning **Go**
 
