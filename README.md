@@ -13,7 +13,7 @@
 
 - 👨‍💻 I'm currently working at [Razorpay](https://github.com/razorpay)
 
-- 📝 I regularly write articles on [https://learnsyntax.com](https://learnsyntax.com)
+- 📝 I regularly write articles on [https://blog.pratik.dev](https://blog.pratik.dev)
 
 - 💬 Ask me about **React, Node, Express, Typescript, Postgres**
 
