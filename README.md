@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepratiksah&label=Profile%20views&color=0e75b6&style=flat" alt="thepratiksah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepratiksah" alt="thepratiksah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jspratik" target="blank"><img src="https://img.shields.io/twitter/follow/jspratik?logo=twitter&style=for-the-badge" alt="jspratik" /></a> </p>
 
-- 🔭 At present, I’m working with Python, Django and Docker.
+- 🔭 At present, I’m working with Node.js, Mongodb & AWS.
 
 - 🌱 I’m currently learning **Go**
 
